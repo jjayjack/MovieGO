@@ -38,6 +38,10 @@
   
 
   ## Questions:
-  Jocelyn Jayjack [email](jocelynjayjack@gmail.com) [github](github.com/jjayjack)
-  Melanie Uhrich [email](melanieuhrich13@gmail.com) [github](github.com/melanieuhrich)
-  Michael Francisco [email](m.francisco9@gmail.com) [github](github.com/mfrancisco9)
+  Jocelyn Jayjack [email](mailto:jocelynjayjack@gmail.com) [github](github.com/jjayjack)
+  
+  
+  Melanie Uhrich [email](mailto:melanieuhrich13@gmail.com) [github](github.com/melanieuhrich)
+  
+  
+  Michael Francisco [email](mailto:m.francisco9@gmail.com) [github](github.com/mfrancisco9)
