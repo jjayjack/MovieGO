@@ -38,5 +38,6 @@
   
 
   ## Questions:
-  jocelynjayjack@gmail.com melanieuhrich13@gmail.com m.francisco9@gmail.com
-  github.com/jjayjack melanieuhrich mfrancisco9
+  Jocelyn Jayjack [email](jocelynjayjack@gmail.com) [github](github.com/jjayjack)
+  Melanie Uhrich [email](melanieuhrich13@gmail.com) [github](github.com/melanieuhrich)
+  Michael Francisco [email](m.francisco9@gmail.com) [github](github.com/mfrancisco9)
